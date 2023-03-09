@@ -18,6 +18,37 @@ JavaScript development, front-end and back-end development, work with databases.
 * JavaScript
 * HTML 
 * CSS
+* Node.js
+* Django
+---
+## Code Example
+```
+function trim(str, size) {
+  if (size >= str.length) {
+    return str;
+  } else {
+    str1 = str.slice(0, size);
+    if (size <= 3) {
+      return str1 + "...";
+    } else {
+      str1 = str1.slice(0, size - 3);
+     return str1 + "...";
+    }
+  }
+}
+```
+---
+## Education
+* Belarusian State Technological University
+    * organic technology
+* IT OverOne
+    * Python developer course
+* EPAM 
+    * Python core
+## Languages
+* Russian 
+* Belarussian
+* English (A2)
 
 
 
