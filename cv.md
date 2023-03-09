@@ -1,10 +1,10 @@
 ## Darya Zakhar
----
+
 ## My Contact Info
 * Phone: + 995 599067243
 * E-mail: daryazakhar.89@gmail.com
 * GutHub: Daryazakhar89
----
+
 ## About Me
 I am 33 years old, I love creativity since childhood. I live in Batumi, Georgia. Why programming? Everything is elementary - I like it,
 
@@ -12,7 +12,6 @@ the profession of the future, thanks to which I can provide myself and fulfill m
 
 JavaScript development, front-end and back-end development, work with databases.
 
----
 ## Skills
 * Python
 * JavaScript
@@ -21,7 +20,6 @@ JavaScript development, front-end and back-end development, work with databases.
 * Node.js
 * Django
 
----
 ## Code Example
 ```
 function trim(str, size) {
@@ -38,7 +36,7 @@ function trim(str, size) {
   }
 }
 ```
----
+
 ## Education
 * Belarusian State Technological University
     * organic technology
